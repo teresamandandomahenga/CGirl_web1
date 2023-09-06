@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(51, 12, 12)
+}
+/*Estilo para o container principal*/
+.container{
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+/*Estilo para a imagem*/
+img{
+    width: 30;
+    border: 4px solid #333;
+    border-radius: 10px;
+}
+
+/*Estilo para titulo sobre a imagem*/
+h1{
+    background-color: brown;
+    color: burlywood;
+    padding: 20px;
+    margin-top: -30px;/*Sobre o titulo da imagem*/
+    border-radius: 0 0 10px 10px;
+}
+
+/*Estilo para o paragrafo*/
+p{
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 0 0 10pax 10px;
+
+}
+
